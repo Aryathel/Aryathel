@@ -52,6 +52,11 @@ To get started, check out [the playlist here][discordpyplaylist].
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Let's Make A Python Discord Bot From Scratch! | Ep. 5 - Command Cogs!](https://www.youtube.com/watch?v=8DCGks6PahM)
+- [I create YOUR Discord bot for Free. // Come hang!](https://www.youtube.com/watch?v=M_WgHeQ_bSU)
+- [I create YOUR Discord bot for Free. // Come hang!](https://www.youtube.com/watch?v=D7mgd1G0ZWI)
+- [Let's Make A Python Discord Bot From Scratch! | Ep. 4 - Config Settings!](https://www.youtube.com/watch?v=o-6LKpmDtt8)
+- [Let's Make A Python Discord Bot From Scratch! | Ep. 3 - Restart Command!](https://www.youtube.com/watch?v=-hUQxP1M7Xk)
 <!-- YOUTUBE:END -->
 
 ---
