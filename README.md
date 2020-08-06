@@ -1,4 +1,4 @@
-### Hi there, I'm Heroicos_HM, aka Hero! 👋
+### Hello everyone, I'm Heroicos_HM, aka Hero! 👋
 
 ## I'm a 20 year old self taught programmer in college!
 - 🔭 I’m currently working to create the University of Arizona Esports Development team!
@@ -54,6 +54,7 @@ To get started, check out [the playlist here][discordpyplaylist].
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
 <img align="left" alt="HeroicosHM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeroicosHM&show_icons=true&hide_border=true" />
 
 <!--[website]: https://HeroicosHM.com-->
@@ -61,18 +62,3 @@ To get started, check out [the playlist here][discordpyplaylist].
 [youtube]: https://youtube.com/HeroicosHM
 <!--[linkedin]: https://www.linkedin.com/in/houghton-mayfield-00a99719b/-->
 [discordpyplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-
-<!--
-**HeroicosHM/HeroicosHM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
