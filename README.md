@@ -13,5 +13,5 @@
 <br />
 ---
 <!--[website]: https://HeroicosHM.com-->
-[Twitter](https://twitter.com/Aryathel)
-[LinkedIn](https://www.linkedin.com/in/houghton-mayfield-00a99719b/)
+[Twitter]: https://twitter.com/Aryathel
+[LinkedIn]: https://www.linkedin.com/in/houghton-mayfield-00a99719b/
