@@ -11,5 +11,5 @@
 <img align="left" alt="HeroicosHM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeroicosHM&show_icons=true&hide_border=true" />
 
 <!--[website]: https://HeroicosHM.com-->
-[twitter]: https://twitter.com/Aryathel
-[linkedin]: https://www.linkedin.com/in/houghton-mayfield-00a99719b/
+[Twitter](https://twitter.com/Aryathel)
+[LinkedIn](https://www.linkedin.com/in/houghton-mayfield-00a99719b/)
