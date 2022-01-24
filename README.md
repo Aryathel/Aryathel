@@ -7,9 +7,9 @@
 <br />
 <br />
 
-[Website](https://heroicoshm.page/) <br />
-[Twitter](https://twitter.com/Aryathel) <br />
-[LinkedIn](https://www.linkedin.com/in/houghton-mayfield-00a99719b/) <br />
+- [Website](https://heroicoshm.page/) <br />
+- [Twitter](https://twitter.com/Aryathel) <br />
+- [LinkedIn](https://www.linkedin.com/in/houghton-mayfield-00a99719b/) <br />
 
 ---
 <img align="left" alt="HeroicosHM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HeroicosHM&show_icons=true&hide_border=true" />
