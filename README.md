@@ -9,6 +9,7 @@
 - ⚙️ Additional Tools: JavaScript, Rust, AngularJS, Bootstrap, HTML/CSS, MongoDB, MySQL
 - 🔭 I’m currently working at the [OnePoint Patient Care](https://www.oppc.com/) creating and maintaining pharmacy data integration solutions.
 - 🌱 I'm always seeking new opportunities to learn something new and teach others what I know.
+- 📜 My #1 skill is my adaptability: I can learn and apply anything I need to very quickly.
 
 <br />
 
